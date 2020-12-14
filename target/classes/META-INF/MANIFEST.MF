@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: LENOVO
+Build-Jdk: 15.0.1
+Implementation-Title: spring-boot-thymeleaf-ajax-example
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.javabycode
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-th
+ ymeleaf-ajax-example/
+Created-By: Maven Integration for Eclipse
+
